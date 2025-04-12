@@ -52,7 +52,7 @@ To build the libft library, follow these steps:
    make
    ```
 
-   This command will compile the library and create an archive file (usually libft.a) in the project directory.
+   This command will compile the library and create an archive file (libft.a) in the project directory.
 
 ## Usage
 
