@@ -26,7 +26,6 @@ The repository is organized as follows:
 libft/
 ├── includes/    # Header files for the library functions
 ├── srcs/        # Source code files for library implementations
-├── tests/       # Unit tests to validate the library functions
 ├── Makefile     # Makefile for compiling the project
 └── README.md    # This file
 ```
@@ -43,7 +42,7 @@ To build the libft library, follow these steps:
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/yourusername/libft.git
+   git clone https://github.com/marco-ht/libft.git
    cd libft
    ```
 
@@ -86,24 +85,6 @@ gcc -Wall -Wextra -Werror your_program.c libft.a -o your_program
 - **Character Checks**: Functions to validate and transform individual characters.
 - **Linked Lists**: Basic operations for creating and managing linked lists.
 - **Additional Utilities**: Other utility functions to enhance your C programming experience.
-
-## Testing
-
-Unit tests are provided in the tests/ directory. To run the tests:
-
-1. Navigate to the tests directory:
-
-   ```sh
-   cd tests
-   ```
-
-2. Compile and run the test suite:
-
-   ```sh
-   make test
-   ```
-
-This will run a series of predefined tests to ensure that all functions behave as expected.
 
 ## Acknowledgments
 
