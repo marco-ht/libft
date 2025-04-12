@@ -9,7 +9,6 @@ This repository contains my implementation of the **libft** project, developed a
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
-- [Testing](#testing)
 - [Acknowledgments](#acknowledgments)
 - [Disclaimer](#disclaimer)
 - [License](#license)
@@ -32,7 +31,6 @@ libft/
 
 - **includes/**: Contains all the necessary header files.
 - **srcs/**: Contains the implementation of each function.
-- **tests/**: Contains test cases for verifying the correctness of each function.
 - **Makefile**: Automates the compilation process.
 
 ## Installation
