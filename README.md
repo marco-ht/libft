@@ -2,6 +2,8 @@
 
 This repository contains my implementation of the **libft** project, developed as part of the 42 School curriculum. The purpose of this project is to showcase my skills in C programming, algorithms, and creating custom library functions that are robust, efficient, and adhere to the high standards of coding required by 42.
 
+> **Note:** This project is strictly for educational purposes. Use of this code in academic submissions or by other students is prohibited by the 42 School regulations.
+
 ## Table of Contents
 
 - [Overview](#overview)
